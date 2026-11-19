@@ -19,6 +19,8 @@ Pega un enlace, elige si quieres el video o solo el audio, y listo.
 ## Requisitos
 
 - Windows 10 u 11 (64 bits).
+- [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) (gratis, de Microsoft).
+  Si no lo tienes, al abrir Reelin Windows te avisará y te llevará a la página para descargarlo.
 
 La primera vez que se abre, Reelin descarga automáticamente las herramientas que necesita
 ([yt-dlp](https://github.com/yt-dlp/yt-dlp) y [FFmpeg](https://ffmpeg.org/)). Tarda unos segundos y no pide permisos de administrador.
