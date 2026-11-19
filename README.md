@@ -17,6 +17,7 @@ Pega un enlace, elige si quieres el video o solo el audio, y listo.
 - Cola de descargas con progreso, velocidad, tiempo restante y opción de cancelar.
 - Recuerda tu carpeta de descargas y tus últimas opciones.
 - Se mantiene actualizada sola para seguir funcionando cuando los sitios cambian.
+- Te avisa cuando hay una nueva versión de Reelin y se actualiza con un clic.
 
 ## Requisitos
 
